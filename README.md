@@ -1,4 +1,4 @@
 # college-demo
-This is my first repository
+Hi there
 <br>
-Author-Md ibrahim
+This is my first repository
